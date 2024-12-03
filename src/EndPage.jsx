@@ -8,7 +8,7 @@ import background from './assets/MAMA_Background_with_Curves.svg'
 import more from './assets/more.svg'
 import next from './assets/next.svg'
 
-function App() {
+function EndPage() {
 
   return (
       <div className="EndPage" style={{backgroundImage: `url(${background})`}}>
@@ -31,4 +31,4 @@ function App() {
   )
 }
 
-export default App
+export default EndPage
